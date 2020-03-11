@@ -1,0 +1,61 @@
+html {
+  background-color: #ffe49c;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+
+p {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.orange {
+  background: #f0983a;
+  width: 200px;
+  height: 140px;
+}
+
+.purple {
+  background: #637dc9;
+  height: 150px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.green {
+  border-bottom: 125px solid #c9c763;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+  height: 0;
+  width: 150px;
+}
+
+.brown {
+  width: 0;
+  height: 0;
+  border-top: 100px solid transparent;
+  border-left: 200px solid #875f4d;
+  border-bottom: 100px solid transparent;
+}
+
+.rose {
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-top: 200px solid #c96363;
+}
+
+h1 {
+  max-width: 200px;
+  padding: 10px;
+  border: solid;
+  border-width: 3px;
+  border-color: black;
+  border-radius: 20px;
+}
+
+.item {
+  touch-action: none;
+  user-select: none;
+  position: relative;
+}
+
